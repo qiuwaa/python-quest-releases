@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "notes": "修复自动更新：github.com 被挡时自动换路（raw / jsDelivr / GitHub API 三条备用），顶部加「检查更新」按钮，失败会说明原因",
-  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.19/PythonQuest-Setup-1.0.19.exe",
-  "sha256": "6b0fe06df0f975ed8966d061085293b33529be9a4761aa534ff6fe2d4208f349"
+  "version": "1.0.20",
+  "notes": "错题本：做错的题自动记录、可重练、订正后打勾；侧栏新增「检查更新」（显示当前版本与检查结果）",
+  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.20/PythonQuest-Setup-1.0.20.exe",
+  "sha256": "e31e8754c5b84946f646b4ef26f69af8d4fbfa10c004c791e7cccda0b0359834"
 }
