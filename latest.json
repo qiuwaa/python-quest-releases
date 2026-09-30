@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "notes": "检查更新：备用源（CDN 缓存）时明确标注「可能延迟几分钟」，避免误报「已是最新」",
-  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.23/PythonQuest-Setup-1.0.23.exe",
-  "sha256": "df461372e1762ebcc5335d5c51cd4398d925d6fb3931eb63d52a659988e4b6b7"
+  "version": "1.0.24",
+  "notes": "修「检查更新误报已是最新」：某条 CDN 路线回缓存的旧清单时不再就此收工，会继续找更新版本并让 API 复核；jsDelivr 降为最后选择",
+  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.24/PythonQuest-Setup-1.0.24.exe",
+  "sha256": "3999456688eb0226e9b4f2b113912507f5ffb72e4fe3558d8d60d569ab6c9b4f"
 }
