@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "notes": "自查清单 + 手动检查更新绕开 CDN 缓存（刚发版点一下就能看到新版）",
-  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.22/PythonQuest-Setup-1.0.22.exe",
-  "sha256": "4563739b841d00bc38cfe461bd25b2cc3820425d523861b7df18eb88ec85935c"
+  "version": "1.0.23",
+  "notes": "检查更新：备用源（CDN 缓存）时明确标注「可能延迟几分钟」，避免误报「已是最新」",
+  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.23/PythonQuest-Setup-1.0.23.exe",
+  "sha256": "df461372e1762ebcc5335d5c51cd4398d925d6fb3931eb63d52a659988e4b6b7"
 }
