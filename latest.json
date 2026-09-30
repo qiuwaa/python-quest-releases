@@ -1,0 +1,6 @@
+{
+  "version": "1.0.19",
+  "notes": "修复自动更新：github.com 被挡时自动换路（raw / jsDelivr / GitHub API 三条备用），顶部加「检查更新」按钮，失败会说明原因",
+  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.19/PythonQuest-Setup-1.0.19.exe",
+  "sha256": "6b0fe06df0f975ed8966d061085293b33529be9a4761aa534ff6fe2d4208f349"
+}
