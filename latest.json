@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "notes": "修「检查更新误报已是最新」：某条 CDN 路线回缓存的旧清单时不再就此收工，会继续找更新版本并让 API 复核；jsDelivr 降为最后选择",
-  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.24/PythonQuest-Setup-1.0.24.exe",
-  "sha256": "3999456688eb0226e9b4f2b113912507f5ffb72e4fe3558d8d60d569ab6c9b4f"
+  "version": "1.0.25",
+  "notes": "写代码更省力：打一个括号/引号自动补上另一半、光标停在中间；选中代码再打括号会自动包起来；回车自动缩进，Tab 缩进整块代码",
+  "url": "https://github.com/qiuwaa/python-quest-releases/releases/download/v1.0.25/PythonQuest-Setup-1.0.25.exe",
+  "sha256": "a0adf904526909553e48a3ab9c06c234c2fde9abebb0f1a14e230c3a549aa5a3"
 }
